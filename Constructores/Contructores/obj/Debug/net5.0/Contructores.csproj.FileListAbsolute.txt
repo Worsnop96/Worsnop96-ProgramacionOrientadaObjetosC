@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\Contructores\Contructores\bin\Debug\net5.0\Contructores.exe
+C:\Users\dylan\source\repos\Contructores\Contructores\bin\Debug\net5.0\Contructores.deps.json
+C:\Users\dylan\source\repos\Contructores\Contructores\bin\Debug\net5.0\Contructores.runtimeconfig.json
+C:\Users\dylan\source\repos\Contructores\Contructores\bin\Debug\net5.0\Contructores.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\Contructores\Contructores\bin\Debug\net5.0\Contructores.dll
+C:\Users\dylan\source\repos\Contructores\Contructores\bin\Debug\net5.0\ref\Contructores.dll
+C:\Users\dylan\source\repos\Contructores\Contructores\bin\Debug\net5.0\Contructores.pdb
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.AssemblyInfo.cs
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.dll
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\ref\Contructores.dll
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.pdb
+C:\Users\dylan\source\repos\Contructores\Contructores\obj\Debug\net5.0\Contructores.genruntimeconfig.cache
